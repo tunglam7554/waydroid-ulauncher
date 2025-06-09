@@ -1,0 +1,15 @@
+{
+    "manifest_version": "1.0",
+    "name": "Waydroid Control",
+    "description": "Control Waydroid from Ulauncher",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "icon": "images/icon.png",
+    "preferences": {
+        "id": "waydroid-control",
+        "name": "Waydroid Control",
+        "description": "Control Waydroid from Ulauncher",
+        "type": "keyword",
+        "default_value": "waydroid"
+    }
+} 
